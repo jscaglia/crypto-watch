@@ -1,0 +1,12 @@
+<svg id="LINK" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="45" viewBox="0 0 45 45">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.196" y1="0.14" x2="0.82" y2="0.873" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2a5ada"/>
+      <stop offset="1" stop-color="#153077"/>
+    </linearGradient>
+  </defs>
+  <g id="LINK-2" data-name="LINK">
+    <circle id="Elipse_354" data-name="Elipse 354" cx="22.5" cy="22.5" r="22.5" fill="url(#linear-gradient)"/>
+    <path id="Trazado_3823" data-name="Trazado 3823" d="M56.4,39.155a2.105,2.105,0,0,0-2.139,0L53,39.874l-6.4,3.695-1.284.745a2.108,2.108,0,0,0-1.05,1.823v10.5a2.1,2.1,0,0,0,1.05,1.82l1.284.747L53.118,62.9l1.284.742a2.1,2.1,0,0,0,2.108,0l1.284-.742L64.2,59.2l1.284-.747a2.1,2.1,0,0,0,1.05-1.82V46.26a2.108,2.108,0,0,0-1.05-1.823L64.2,43.692,57.8,40ZM48.933,53.924V48.969a2.105,2.105,0,0,1,1.052-1.823l4.3-2.478a2.1,2.1,0,0,1,2.1,0l4.3,2.478a2.111,2.111,0,0,1,1.053,1.823v4.955a2.108,2.108,0,0,1-1.053,1.823l-4.3,2.48a2.105,2.105,0,0,1-2.1,0l-4.3-2.48A2.1,2.1,0,0,1,48.933,53.924Z" transform="translate(-32.896 -28.885)" fill="#fff"/>
+  </g>
+</svg>

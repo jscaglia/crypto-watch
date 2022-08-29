@@ -1,0 +1,13 @@
+<svg id="DOGE" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="45" viewBox="0 0 45 45">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.17" y1="0.122" x2="0.85" y2="0.856" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c5ae4d"/>
+      <stop offset="0.001" stop-color="#e3c856"/>
+      <stop offset="1" stop-color="#725e09"/>
+    </linearGradient>
+  </defs>
+  <g id="DOGE-2" data-name="DOGE">
+    <circle id="Elipse_214" data-name="Elipse 214" cx="22.5" cy="22.5" r="22.5" fill="url(#linear-gradient)"/>
+    <path id="Trazado_3774" data-name="Trazado 3774" d="M90.736,949.924H85.059a.471.471,0,0,0-.472.471v8.582a.471.471,0,0,1-.472.471H82.534a.472.472,0,0,0-.472.472v1.39a.471.471,0,0,0,.472.471h1.582a.471.471,0,0,1,.471.471v8.581a.472.472,0,0,0,.472.471h6.693s10.073.844,10.073-10.513C101.825,949.622,92.191,949.924,90.736,949.924Zm.852,17.43H89.094a.472.472,0,0,1-.472-.471v-4.629a.472.472,0,0,1,.472-.471h3.5a.471.471,0,0,0,.472-.471v-1.39a.471.471,0,0,0-.472-.472h-3.5a.472.472,0,0,1-.472-.471v-4.629a.472.472,0,0,1,.472-.471h2.355c1.057,0,6.376.425,6.384,6.995S92.349,967.354,91.588,967.354Z" transform="translate(-68.544 -938.122)" fill="#fff"/>
+  </g>
+</svg>

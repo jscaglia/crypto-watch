@@ -1,0 +1,12 @@
+<svg id="LTC" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="45" viewBox="0 0 45 45">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.21" y1="0.126" x2="0.806" y2="0.878" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#cecece"/>
+      <stop offset="1" stop-color="#5a5a62"/>
+    </linearGradient>
+  </defs>
+  <g id="LITECOIN">
+    <path id="Elipse_211" data-name="Elipse 211" d="M22.5,0A22.5,22.5,0,1,1,0,22.5,22.5,22.5,0,0,1,22.5,0Z" fill="url(#linear-gradient)"/>
+    <path id="Trazado_3181" data-name="Trazado 3181" d="M2107.722,980.783l-4.742,9.949-4.818.917a.5.5,0,0,0-.406.49v2.539a.5.5,0,0,0,.593.49l2.683-.508-2.236,4.727a3,3,0,0,0,2.715,4.291h11.643a.5.5,0,0,0,.459-.305l1.672-3.958a.5.5,0,0,0-.453-.695l-10.054-.148,2.441-4.988,5.806-1.042a.5.5,0,0,0,.412-.484l.037-2.484a.5.5,0,0,0-.491-.507.487.487,0,0,0-.1.008l-3.862.691,4.2-8.589a.5.5,0,0,0-.454-.719l-4.6.046A.5.5,0,0,0,2107.722,980.783Z" transform="translate(-2084.041 -971.566)" fill="#fff"/>
+  </g>
+</svg>

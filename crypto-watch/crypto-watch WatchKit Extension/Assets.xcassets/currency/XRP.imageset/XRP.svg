@@ -1,0 +1,17 @@
+<svg id="XRP" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="45" viewBox="0 0 45 45">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.176" y1="0.13" x2="0.892" y2="0.804" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#696969"/>
+      <stop offset="1"/>
+    </linearGradient>
+  </defs>
+  <g id="XRP-2" data-name="XRP">
+    <g id="Grupo_6066" data-name="Grupo 6066">
+      <path id="Elipse_210" data-name="Elipse 210" d="M22.5,0A22.5,22.5,0,1,1,0,22.5,22.5,22.5,0,0,1,22.5,0Z" fill="url(#linear-gradient)"/>
+      <g id="Grupo_6065" data-name="Grupo 6065">
+        <path id="Vector" d="M-149.228,952.682h0a1.337,1.337,0,0,1,1.334,1.339,1.337,1.337,0,0,1-.4.948l-5.6,5.546a7.394,7.394,0,0,1-10.378,0l-5.606-5.546a1.337,1.337,0,0,1-.011-1.891,1.336,1.336,0,0,1,.948-.4h0a1.338,1.338,0,0,1,.938.386l5.625,5.565a4.688,4.688,0,0,0,6.572,0l5.625-5.565A1.335,1.335,0,0,1-149.228,952.682Z" transform="translate(181.572 -941.434)" fill="#fff"/>
+        <path id="Vector_2" data-name="Vector 2" d="M-169.094,1008.564h0a1.337,1.337,0,0,1-1.334-1.339,1.338,1.338,0,0,1,.4-.948l5.649-5.593a7.394,7.394,0,0,1,10.378,0l5.651,5.593a1.337,1.337,0,0,1,.011,1.891,1.336,1.336,0,0,1-.948.4h0a1.338,1.338,0,0,1-.937-.388l-5.67-5.612a4.687,4.687,0,0,0-6.563,0l-5.672,5.612A1.337,1.337,0,0,1-169.094,1008.564Z" transform="translate(181.686 -975.53)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

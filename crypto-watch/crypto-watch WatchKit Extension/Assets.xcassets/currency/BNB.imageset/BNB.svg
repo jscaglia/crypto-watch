@@ -1,0 +1,12 @@
+<svg id="BNB" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="45" viewBox="0 0 45 45">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.186" y1="0.114" x2="0.807" y2="0.892" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fad94d"/>
+      <stop offset="1" stop-color="#b17b18"/>
+    </linearGradient>
+  </defs>
+  <g id="BNB-2" data-name="BNB">
+    <circle id="Elipse_355" data-name="Elipse 355" cx="22.5" cy="22.5" r="22.5" fill="url(#linear-gradient)"/>
+    <path id="Trazado_3824" data-name="Trazado 3824" d="M39.168,41.527l4.005-4.005,4.009,4.007L49.513,39.2l-6.34-6.338L36.841,39.2ZM32.86,43.173l2.331-2.329,2.331,2.329L35.191,45.5Zm6.308,1.646,4.005,4.007,4.009-4.009,2.331,2.331-6.34,6.338L36.841,47.15h0Zm9.658-1.646,2.325-2.329,2.335,2.329L51.151,45.5Zm-3.288,0h0L43.173,45.54l-2.361-2.361h0l.412-.414.2-.2,1.747-1.747,2.365,2.365Z" transform="translate(-20.673 -20.673)" fill="#fff"/>
+  </g>
+</svg>

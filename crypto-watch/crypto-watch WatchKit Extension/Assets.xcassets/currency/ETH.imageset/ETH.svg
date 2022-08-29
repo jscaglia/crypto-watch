@@ -1,0 +1,17 @@
+<svg id="ETH" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="45" viewBox="0 0 45 45">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.236" y1="0.095" x2="0.793" y2="0.889" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#848daf"/>
+      <stop offset="1" stop-color="#131b60"/>
+    </linearGradient>
+  </defs>
+  <g id="ETHER">
+    <g id="Grupo_6064" data-name="Grupo 6064">
+      <path id="Elipse_212" data-name="Elipse 212" d="M22.5,0A22.5,22.5,0,1,1,0,22.5,22.5,22.5,0,0,1,22.5,0Z" fill="url(#linear-gradient)"/>
+      <g id="Grupo_6063" data-name="Grupo 6063">
+        <path id="Trazado_3182" data-name="Trazado 3182" d="M587.917,940.841l1.361.848,4.909,3.064a.341.341,0,0,0,.362,0l6.272-3.913a.341.341,0,0,0,.124-.444l-3.375-6.562-.883-1.727-1.1-2.147-.928-1.8a.341.341,0,0,0-.607,0l-3.231,6.313-3.041,5.919A.341.341,0,0,0,587.917,940.841Z" transform="translate(-571.873 -919.197)" fill="#fff"/>
+        <path id="Trazado_3183" data-name="Trazado 3183" d="M600.659,984.2l-6.362,3.84a.169.169,0,0,1-.176,0l-6.3-3.9a.171.171,0,0,0-.24.221l6.465,12.694a.17.17,0,0,0,.3,0l6.563-12.63a.171.171,0,0,0-.25-.221Z" transform="translate(-571.736 -960.924)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
